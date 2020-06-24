@@ -1,1 +1,1 @@
-# gsp_trainning
+# Slider with counter and slide preview
